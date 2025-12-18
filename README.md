@@ -1,5 +1,10 @@
 # Data-Driven Policy Innovation (Datathon Project)
 
+## 🚀 Check out our visualizations here  👇
+
+[![Demo](https://img.shields.io/badge/Demo-Live-brightgreen)](https://datathon-drab.vercel.app/)
+
+
 ## 📌 Overview
 This project was developed as part of a **Datathon on Data-Driven Policy Innovation**, with the goal of using large-scale public datasets to derive actionable insights for improving **educational access, retention, and equity** in India.
 
