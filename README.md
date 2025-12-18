@@ -58,9 +58,10 @@ The analysis focused on the following three key policy questions:
    - Socioeconomic factor analysis for enrolment and dropout trends
 
 4. **Visualization & Insight Generation**
-   - District-wise and category-wise visualizations
-   - Comparative charts highlighting disparities
-   - Trend analysis across key indicators
+   - Built interactive, web-based dashboards using React to explore district-wise and category-wise trends.
+   - Enabled dynamic filtering across geography (urban vs. rural), gender, caste, and socioeconomic indicators.
+   - Deployed the visualization interface on Vercel for easy access and real-time interaction.
+
 
 ---
 
